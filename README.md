@@ -1,4 +1,4 @@
-👋 Hi, I’m Sabrina Do, a current high school senior at Sage Hill School. 
+👋 Hi, I’m Sabrina Do, a rising college freshman. 
 I’m interested in chemistry, neurobiology, and computer science!
 
 Contact me with any questions about my code or projects at sabpdo@icloud.com
