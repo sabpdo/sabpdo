@@ -1,4 +1,4 @@
-### Hi, I’m Sabrina Do. ###
+# Hi, I’m Sabrina Do. #
 
 ## I am a sophomore at MIT, a computer science major, machine learning enthusiast, and web-developer. ##
 
@@ -21,7 +21,7 @@ DevPost link: https://devpost.com/sabpdo?ref_content=user-portfolio&ref_feature=
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-# Machine Learning # 
+### Machine Learning ###
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -33,8 +33,8 @@ DevPost link: https://devpost.com/sabpdo?ref_content=user-portfolio&ref_feature=
 
 ## My Github Stats ##
 
-[![Sabrina’s github stats](https://github-readme-stats.vercel.app/api?username=sabpdo)](https://github.com/sabpdo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/sabpdo)
+<!-- [![Sabrina’s github stats](https://github-readme-stats.vercel.app/api?username=sabpdo)](https://github.com/sabpdo) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabpdo&layout=compact)](https://github.com/sabpdo)
 
 ## Connect with Me ##
 
