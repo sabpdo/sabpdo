@@ -42,7 +42,7 @@ DevPost link: https://devpost.com/sabpdo?ref_content=user-portfolio&ref_feature=
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][1.2]][1].
+You can find me on [![LinkedIn][1.2]][1] or at sabpdo@mit.edu.
 
 <!-- Icons -->
 
