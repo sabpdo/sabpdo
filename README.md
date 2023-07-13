@@ -36,6 +36,18 @@ DevPost link: https://devpost.com/sabpdo?ref_content=user-portfolio&ref_feature=
 <!-- [![Sabrina’s github stats](https://github-readme-stats.vercel.app/api?username=sabpdo)](https://github.com/sabpdo) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabpdo&layout=compact)](https://github.com/sabpdo)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&layout=compact)](https://github.com/sabpdo)
+
 ## Connect with Me ##
 
-<a href=”https://www.linkedin.com/in/sabrina-phuonglan-do/”><img align=”left” src=”https://raw.githubusercontent.com/sabpdo/sabpdo/tree/main/images/linkedin.svg” alt=”SabrinaDoLinkedIN” width=”15px”/></a>
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/sabpdo/sabpdo/master/linkedin.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/sabrina-phuonglan-d/
