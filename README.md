@@ -36,7 +36,7 @@ DevPost link: https://devpost.com/sabpdo?ref_content=user-portfolio&ref_feature=
 <!-- [![Sabrina’s github stats](https://github-readme-stats.vercel.app/api?username=sabpdo)](https://github.com/sabpdo) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabpdo&layout=compact)](https://github.com/sabpdo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&layout=compact)](https://github.com/sabpdo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=Google-CSSI-Final-Project-Mind-of-Matter&layout=compact)](https://github.com/sabpdo)
 
 ## Connect with Me ##
 
