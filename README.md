@@ -1,6 +1,6 @@
 ### Hi, I’m Sabrina Do. ###
 
-## I am a sophomore at MIT, a computer science major, machine learning enthusiast, and web-developer.
+## I am a sophomore at MIT, a computer science major, machine learning enthusiast, and web-developer. ##
 
 Check out some of my previous coding projects, written in HTML, CSS, JavaScript, C#, Python, and Java!
 
@@ -20,6 +20,9 @@ DevPost link: https://devpost.com/sabpdo?ref_content=user-portfolio&ref_feature=
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+# Machine Learning # 
+
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -30,9 +33,9 @@ DevPost link: https://devpost.com/sabpdo?ref_content=user-portfolio&ref_feature=
 
 ## My Github Stats ##
 
-[![Sabrina’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/sabpdo)
+[![Sabrina’s github stats](https://github-readme-stats.vercel.app/api?username=sabpdo)](https://github.com/sabpdo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/sabpdo)
 
 ## Connect with Me ##
 
-<a href=”https://www.linkedin.com/in/sabrina-phuonglan-do/"><img align=”left” src=”https://raw.githubusercontent.com/sabpdo/sabpdo/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/sabrina-phuonglan-do/"><img align=”left” src=”https://raw.githubusercontent.com/sabpdo/sabpdo/main/images/linkedin.png" alt=”Sabrina Do | LinkedIn” width=”21px”/></a>
