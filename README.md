@@ -8,6 +8,8 @@ Contact me with any questions about my code or projects at sabpdo@mit.edu
 
 DevPost link: https://devpost.com/sabpdo?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 
+---
+
 ## Technical Skills ##
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
@@ -36,7 +38,7 @@ DevPost link: https://devpost.com/sabpdo?ref_content=user-portfolio&ref_feature=
 <!-- [![Sabrina’s github stats](https://github-readme-stats.vercel.app/api?username=sabpdo)](https://github.com/sabpdo) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabpdo&layout=compact)](https://github.com/sabpdo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=Google-CSSI-Final-Project-Mind-of-Matter&layout=compact)](https://github.com/sabpdo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=Google-CSSI-Final-Project-Mind-of-Matter&layout=compact)](https://github.com/sabpdo/Google-CSSI-Final-Project-Mind-of-Matter)
 
 ## Connect with Me ##
 
