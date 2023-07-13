@@ -38,4 +38,4 @@ DevPost link: https://devpost.com/sabpdo?ref_content=user-portfolio&ref_feature=
 
 ## Connect with Me ##
 
-<a href=”https://www.linkedin.com/in/sabrina-phuonglan-do/”><img align=”left” src=”https://raw.githubusercontent.com/sabpdo/sabpdo/main/images/linkedin.png” alt=”Sabrina Do | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/sabrina-phuonglan-do/”><img align=”left” src=”https://raw.githubusercontent.com/sabpdo/sabpdo/main/images/linkedin.png” alt=”Sabrina” width=”21px”/></a>
