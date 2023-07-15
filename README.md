@@ -40,6 +40,10 @@ DevPost link: https://devpost.com/sabpdo?ref_content=user-portfolio&ref_feature=
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=Google-CSSI-Final-Project-Mind-of-Matter&layout=compact)](https://github.com/sabpdo/Google-CSSI-Final-Project-Mind-of-Matter)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=Unity-Triangle_Completion&layout=compact)](https://github.com/sabpdo/Unity-Triangle_Completion)
+
+--- 
+
 ## Connect with Me ##
 
 <!-- Actual text -->
