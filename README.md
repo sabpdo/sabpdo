@@ -1,6 +1,6 @@
 # Hi, I’m Sabrina Do. #
 
-## I am a sophomore at MIT, a computer science major, machine learning enthusiast, and web-developer. ##
+## I am a sophomore at MIT, a computer science major, software engineer, machine learning enthusiast, and web-developer. ##
 
 Check out some of my previous coding projects, written in HTML, CSS, JavaScript, C#, Python, and Java!
 
