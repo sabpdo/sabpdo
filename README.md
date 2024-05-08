@@ -34,16 +34,11 @@ DevPost link: https://devpost.com/sabpdo?ref_content=user-portfolio&ref_feature=
 
 <!-- [![Sabrina’s github stats](https://github-readme-stats.vercel.app/api?username=sabpdo)](https://github.com/sabpdo) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabpdo&layout=compact)](https://github.com/sabpdo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=Google-CSSI-Final-Project-Mind-of-Matter&layout=compact)](https://github.com/sabpdo/Google-CSSI-Final-Project-Mind-of-Matter)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=Unity-Triangle_Completion&layout=compact)](https://github.com/sabpdo/Unity-Triangle_Completion)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=InfinityGamesWithFiles&layout=compact)](https://github.com/sabpdo/InfinityGamesWithFiles)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=Eco-Calc&layout=compact)](https://github.com/sabpdo/Eco-Calc)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=Schill-The-Sound-of-High-School&layout=compact)](https://github.com/sabpdo/Schill-The-Sound-of-High-School)
+[![Google-CSSI-Final-Project-Mind-of-Matter](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=Google-CSSI-Final-Project-Mind-of-Matter&layout=compact)](https://github.com/sabpdo/Google-CSSI-Final-Project-Mind-of-Matter)
+[![Unity-Triangle_Completion](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=Unity-Triangle_Completion&layout=compact)](https://github.com/sabpdo/Unity-Triangle_Completion)
+[![InfinityGamesWithFiles](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=InfinityGamesWithFiles&layout=compact)](https://github.com/sabpdo/InfinityGamesWithFiles)
+[![Eco-Calc](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=Eco-Calc&layout=compact)](https://github.com/sabpdo/Eco-Calc)
+[![Schill-The-Sound-of-High-School](https://github-readme-stats.vercel.app/api/pin/?username=sabpdo&repo=Schill-The-Sound-of-High-School&layout=compact)](https://github.com/sabpdo/Schill-The-Sound-of-High-School)
 
 
 --- 
