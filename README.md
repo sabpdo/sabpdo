@@ -1,6 +1,6 @@
 # Hi, I’m Sabrina! #
 
-Check out some of my previous coding projects, written in HTML, CSS, JavaScript, C#, Python, and Java!
+Check out some of my previous coding projects!
 
 Contact me with any questions about my code or projects at sabpdo@mit.edu
 
