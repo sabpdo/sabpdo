@@ -1,17 +1,14 @@
-# Hi, I’m Sabrina Do. #
-
-## I am a sophomore at MIT, a computer science major, software engineer, machine learning enthusiast, and web-developer. ##
+# Hi, I’m Sabrina! #
 
 Check out some of my previous coding projects, written in HTML, CSS, JavaScript, C#, Python, and Java!
 
-Contact me with any questions about my code or projects at sabpdo@mit.edu or sabpdo@gmail.com
+Contact me with any questions about my code or projects at sabpdo@mit.edu
 
 DevPost link: https://devpost.com/sabpdo?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 
 ---
 
 ## Technical Skills ##
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
