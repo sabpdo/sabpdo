@@ -2,30 +2,11 @@
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/fe/32/71/fe3271c2f92d9d098bd5a3281eb889e5.gif" width="150" style="border-radius: 50%;">
-  
-  <br><br>
-
-  **Previously at:**  
-  <br>
-
-  <a href="https://www.facebook.com/">
-    <img src="https://i.pinimg.com/736x/b7/06/fa/b706fa17832e8854ee125404a655f0df.jpg" width="50" style="border-radius: 50%;">
-  </a>
-  <a href="scale.com">
-    <img src="https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png" width="50" style="border-radius: 50%;">
-  </a>
-  <a href="nasa.gov">
-    <img src="https://img.icons8.com/color/600/nasa.png" width="50" style="border-radius: 50%;">
-  </a>
-  <a href="nasdaq.com">
-    <img src="https://github.com/user-attachments/assets/9e043aea-0552-427f-9ac6-2680b53682c7" width="50" style="border-radius: 50%;">
-  </a>
 </div>
 
 Check out some of my previous coding projects!
 
 Contact me with any questions about my code or projects at [sabpdo@mit.edu](mailto:sabpdo@mit.edu)
-
 
 ---
 
@@ -47,8 +28,7 @@ You can find me on [![LinkedIn][1.2]][1] or at [sabpdo@mit.edu](mailto:sabpdo@mi
 [1]: https://www.linkedin.com/in/sabrina-phuonglan-do/
 
 ---
-
-## Technical Skills ##
+## Technical Skills
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -59,9 +39,6 @@ You can find me on [![LinkedIn][1.2]][1] or at [sabpdo@mit.edu](mailto:sabpdo@mi
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-
-### Machine Learning ###
-
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -70,6 +47,21 @@ You can find me on [![LinkedIn][1.2]][1] or at [sabpdo@mit.edu](mailto:sabpdo@mi
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/1f/7e/95/1f7e952c4a4c7f2d7b7c2bf923baee67.gif" width="100"/>
+## Previously at:
+<div align="center">
+  <a href="https://www.facebook.com/">
+    <img src="https://i.pinimg.com/736x/b7/06/fa/b706fa17832e8854ee125404a655f0df.jpg" width="50" style="border-radius: 50%;">
+  </a>
+  <a href="scale.com">
+    <img src="https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png" width="50" style="border-radius: 50%;">
+  </a>
+  <a href="nasa.gov">
+    <img src="https://img.icons8.com/color/600/nasa.png" width="50" style="border-radius: 50%;">
+  </a>
+  <a href="nasdaq.com">
+    <img src="https://github.com/user-attachments/assets/9e043aea-0552-427f-9ac6-2680b53682c7" width="50" style="border-radius: 50%;">
+  </a>
+  <a href="inkeep.com">
+    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGAKrHYoninwg/company-logo_200_200/company-logo_200_200/0/1689206298999/inkeep_logo?e=2147483647&v=beta&t=0LSLBzMBiiLDwhaqe8bHWGJryAgASipsj08FMXqlf_c" width="50" height: "70" style="border-radius: 50%;">
+  </a>
 </div>
