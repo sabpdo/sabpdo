@@ -40,7 +40,7 @@ Contact me with any questions about my code or projects at [sabpdo@mit.edu](mail
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][1.2]][1] or at sabpdo@mit.edu.
+You can find me on [![LinkedIn][1.2]][1] or at [sabpdo@mit.edu](mailto:sabpdo@mit.edu).
 
 <!-- Icons -->
 
