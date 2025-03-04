@@ -1,8 +1,50 @@
-# Hi, I’m Sabrina! #
+# Hi! I'm Sabrina!  
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/fe/32/71/fe3271c2f92d9d098bd5a3281eb889e5.gif" width="150" style="border-radius: 50%;">
+  
+  <br><br>
+
+  **Previously at:**  
+  <br>
+
+  <a href="https://www.facebook.com/">
+    <img src="https://i.pinimg.com/736x/b7/06/fa/b706fa17832e8854ee125404a655f0df.jpg" width="50" style="border-radius: 50%;">
+  </a>
+  <a href="scale.com">
+    <img src="https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png" width="50" style="border-radius: 50%;">
+  </a>
+  <a href="nasa.gov">
+    <img src="https://img.icons8.com/color/600/nasa.png" width="50" style="border-radius: 50%;">
+  </a>
+  <a href="nasdaq.com">
+    <img src="https://github.com/user-attachments/assets/9e043aea-0552-427f-9ac6-2680b53682c7" width="50" style="border-radius: 50%;">
+  </a>
+</div>
 
 Check out some of my previous coding projects!
 
 Contact me with any questions about my code or projects at [sabpdo@mit.edu](mailto:sabpdo@mit.edu)
+
+
+---
+
+## My Github Stats ##
+  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sabpdo)
+  
+--- 
+
+## Connect with Me ##
+
+You can find me on [![LinkedIn][1.2]][1] or at [sabpdo@mit.edu](mailto:sabpdo@mit.edu).
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/sabrina-phuonglan-do/
 
 ---
 
@@ -28,24 +70,6 @@ Contact me with any questions about my code or projects at [sabpdo@mit.edu](mail
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-## My Github Stats ##
-
-[![Sabrina’s github stats](https://github-readme-stats.vercel.app/api?username=sabpdo)](https://github.com/sabpdo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabpdo&layout=compact)](https://github.com/sabpdo)
-
-
---- 
-
-## Connect with Me ##
-
-<!-- Actual text -->
-
-You can find me on [![LinkedIn][1.2]][1] or at [sabpdo@mit.edu](mailto:sabpdo@mit.edu).
-
-<!-- Icons -->
-
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.linkedin.com/in/sabrina-phuonglan-do/
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/1f/7e/95/1f7e952c4a4c7f2d7b7c2bf923baee67.gif" width="100"/>
+</div>
