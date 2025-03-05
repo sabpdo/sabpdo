@@ -1,7 +1,9 @@
 # Hi! I'm Sabrina!  
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/fe/32/71/fe3271c2f92d9d098bd5a3281eb889e5.gif" width="150" style="border-radius: 50%;">
+    <a href="https://github.com/sabpdo">
+        <img src="https://i.pinimg.com/originals/fe/32/71/fe3271c2f92d9d098bd5a3281eb889e5.gif" width="150" style="border-radius: 50%;">
+    </a>
 </div>
 
 Check out some of my previous coding projects!
@@ -11,7 +13,10 @@ Contact me with any questions about my code or projects at [sabpdo@mit.edu](mail
 ---
 
 ## My Github Stats ##
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sabpdo)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sabpdo)
+
+![Languages Used](generated/languages.svg)
   
 --- 
 
