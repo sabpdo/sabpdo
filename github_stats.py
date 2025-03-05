@@ -7,6 +7,10 @@ from typing import Dict, List, Optional, Set, Tuple
 import aiohttp
 import requests
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 ###############################################################################
 # Main Classes
