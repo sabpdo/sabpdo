@@ -52,16 +52,16 @@ You can find me on [![LinkedIn][1.2]][1] or at [sabpdo@mit.edu](mailto:sabpdo@mi
   <a href="https://www.facebook.com/">
     <img src="https://i.pinimg.com/736x/b7/06/fa/b706fa17832e8854ee125404a655f0df.jpg" width="50" style="border-radius: 50%;">
   </a>
-  <a href="scale.com">
+  <a href="https://scale.com/">
     <img src="https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png" width="50" style="border-radius: 50%;">
   </a>
-  <a href="nasa.gov">
+  <a href="https://www.nasa.gov/">
     <img src="https://img.icons8.com/color/600/nasa.png" width="50" style="border-radius: 50%;">
   </a>
-  <a href="nasdaq.com">
+  <a href="https://www.nasdaq.com/">
     <img src="https://github.com/user-attachments/assets/9e043aea-0552-427f-9ac6-2680b53682c7" width="50" style="border-radius: 50%;">
   </a>
-  <a href="inkeep.com">
+  <a href="https://inkeep.com/">
     <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGAKrHYoninwg/company-logo_200_200/company-logo_200_200/0/1689206298999/inkeep_logo?e=2147483647&v=beta&t=0LSLBzMBiiLDwhaqe8bHWGJryAgASipsj08FMXqlf_c" width="50" height: "70" style="border-radius: 50%;">
   </a>
 </div>
