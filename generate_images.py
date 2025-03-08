@@ -1,10 +1,8 @@
 #!/usr/bin/python3
-from dotenv import load_dotenv
 import asyncio
 import os
 import re
 
-load_dotenv()
 import aiohttp
 
 from github_stats import Stats
